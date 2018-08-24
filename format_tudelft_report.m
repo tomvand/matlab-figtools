@@ -47,11 +47,11 @@ if ~ismember('Arial', listfonts)
     warning('Font ''Arial'' is not available.');
 end
 x.defaultAxesFontName = 'Arial';
-x.defaultAxesFontSize = 8; % LaTeX report caption size is 8pt
+x.defaultAxesFontSize = 7; % LaTeX report caption size is 8pt
 x.defaultLegendFontName = 'Arial';
-x.defaultLegendFontSize = 8;  % LaTeX report caption size is 8pt
+x.defaultLegendFontSize = 7;  % LaTeX report caption size is 8pt
 x.defaultTextFontName = 'Arial';
-x.defaultTextFontSize = 8;  % LaTeX report caption size is 8pt
+x.defaultTextFontSize = 7;  % LaTeX report caption size is 8pt
 
 % Figure sizes
 aspect_ratio = 8 / 6; % Default MATLAB aspect ratio
