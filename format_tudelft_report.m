@@ -51,7 +51,7 @@ x.defaultAxesFontSize = 7; % LaTeX report caption size is 8pt
 x.defaultLegendFontName = 'Arial';
 x.defaultLegendFontSize = 7;  % LaTeX report caption size is 8pt
 x.defaultTextFontName = 'Arial';
-x.defaultTextFontSize = 7;  % LaTeX report caption size is 8pt
+x.defaultTextFontSize = 5;  % LaTeX report caption size is 8pt
 
 % Figure sizes
 aspect_ratio = 8 / 6; % Default MATLAB aspect ratio
