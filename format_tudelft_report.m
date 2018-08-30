@@ -59,6 +59,7 @@ textwidth = 0.75 * 21.0; % LaTeX report textwidth
 
 opt.size.column = figure_size(0.45 * textwidth, 0.45 * textwidth / aspect_ratio);
 opt.size.full = figure_size(textwidth, textwidth / aspect_ratio);
+opt.size.wide = figure_size(textwidth, 0.45 * textwidth / aspect_ratio);
 
 % Set default figure size
 d = opt.size.column;
