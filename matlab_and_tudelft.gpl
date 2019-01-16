@@ -1,0 +1,78 @@
+GIMP Palette
+Name: MATLAB & TU Delft palette
+Columns: 3
+#
+  0   0   0  Black
+128 128 128  Gray (50%)
+191 191 191  Gray (25%)
+217 217 217  Gray (15%)
+255 255 255  White
+  0 114 189  MATLAB Blue
+128 184 222  MATLAB Blue (50%)
+191 220 238  MATLAB Blue (25%)
+217 234 245  MATLAB Blue (15%)
+217  83  25  MATLAB Red
+236 169 140  MATLAB Red (50%)
+245 212 197  MATLAB Red (25%)
+249 229 220  MATLAB Red (15%)
+237 177  32  MATLAB Yellow
+246 216 143  MATLAB Yellow (50%)
+250 235 199  MATLAB Yellow (25%)
+252 243 222  MATLAB Yellow (15%)
+126  47 142  MATLAB Purple
+190 151 198  MATLAB Purple (50%)
+223 203 227  MATLAB Purple (25%)
+236 224 238  MATLAB Purple (15%)
+119 172  48  MATLAB Green
+187 213 151  MATLAB Green (50%)
+221 234 203  MATLAB Green (25%)
+235 243 224  MATLAB Green (15%)
+ 77 190 238  MATLAB Cyan
+166 222 246  MATLAB Cyan (50%)
+210 239 251  MATLAB Cyan (25%)
+228 245 252  MATLAB Cyan (15%)
+162  20  47  MATLAB Maroon
+208 137 151  MATLAB Maroon (50%)
+232 196 203  MATLAB Maroon (25%)
+241 220 224  MATLAB Maroon (15%)
+
+  0 166 214  TU Delft Cyan
+128 211 235  TU Delft Cyan (50%)
+191 233 245  TU Delft Cyan (25%)
+217 242 249  TU Delft Cyan (15%)
+110 187 213  TU Delft Skyblue
+183 221 234  TU Delft Skyblue (50%)
+219 238 245  TU Delft Skyblue (25%)
+233 245 249  TU Delft Skyblue (15%)
+ 29  28 115  TU Delft Purple
+142 142 185  TU Delft Purple (50%)
+199 198 220  TU Delft Purple (25%)
+221 221 234  TU Delft Purple (15%)
+230  70  22  TU Delft Orange
+243 163 139  TU Delft Orange (50%)
+249 209 197  TU Delft Orange (25%)
+251 227 220  TU Delft Orange (15%)
+255 196   0  TU Delft Yellow
+240 226 128  TU Delft Yellow (50%)
+248 240 191  TU Delft Yellow (25%)
+251 246 217  TU Delft Yellow (15%)
+226  26  26  TU Delft Red
+241 141 141  TU Delft Red (50%)
+248 198 198  TU Delft Red (25%)
+251 221 221  TU Delft Red (15%)
+  0 136 145  TU Delft Green
+128 195 200  TU Delft Green (50%)
+191 225 227  TU Delft Green (25%)
+217 237 239  TU Delft Green (15%)
+165 202  26  TU Delft Bright Green
+210 228 141  TU Delft Bright Green (50%)
+233 242 198  TU Delft Bright Green (25%)
+242 247 221  TU Delft Bright Green (15%)
+109  23 127  TU Delft Warm Purple
+182 139 191  TU Delft Warm Purple (50%)
+219 197 223  TU Delft Warm Purple (25%)
+233 220 236  TU Delft Warm Purple (15%)
+107 134 137  TU Delft Seagreen
+181 195 196  TU Delft Seagreen (50%)
+218 225 226  TU Delft Seagreen (25%)
+233 237 237  TU Delft Seagreen (15%)
